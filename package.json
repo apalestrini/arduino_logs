@@ -1,0 +1,18 @@
+{
+  "name": "logs_arduino",
+  "version": "1.0.1",
+  "description": "Arduino logs agrega una libreria para poder enviar logs a una terminal serial, tanto para Arduino como para ESP8266, ESP32, etc.", 
+  "keywords": [
+    "arduino",
+    "esp8266",
+    "esp32",
+    "logs",
+    "terminal"
+  ],
+  "license": "MIT",
+  "author": "Alejandro Palestrini <apalestrini@gmail.com> (https://tintadigital.com.ar)",
+  "main": "libs/*",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
