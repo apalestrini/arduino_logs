@@ -1,6 +1,6 @@
 {
   "name": "logs_arduino",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Arduino logs agrega una libreria para poder enviar logs a una terminal serial, tanto para Arduino como para ESP8266, ESP32, etc.", 
   "keywords": [
     "arduino",
